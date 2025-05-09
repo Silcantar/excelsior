@@ -1,5 +1,5 @@
 # Excelsior
-150% (153 keys) 3-section hand-wired keyboard (optionally) using uniform keycaps in a curved plate.
+Excelsior is a 150% (153 keys) 3-section hand-wired keyboard (optionally) using uniform keycaps in a curved plate.
 
 The main section is based on a standard ANSI 60% keyboard, but with a row of 15 function/programmable macro keys at the top and 5 keys below the 7u spacebar.
 
