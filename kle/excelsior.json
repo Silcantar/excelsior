@@ -1,0 +1,879 @@
+[
+  {
+    "name": "Excelsior",
+    "radii": "15px",
+    "switchMount": "cherry",
+    "plate": true,
+    "css": "@import url('https://fonts.googleapis.com/css2?family=EB+Garamond');\n\n* { font-family: 'EB Garamond'; }"
+  },
+  [
+    {
+      "c": "#54422d",
+      "p": "FLAT",
+      "a": 7,
+      "w": 6.5,
+      "h": 9
+    },
+    "",
+    {
+      "x": -6.5,
+      "c": "#d1cf79",
+      "w": 6.5,
+      "h": 1.25
+    },
+    "",
+    {
+      "c": "#54422d",
+      "t": "#000000\n\n\n\n#cccccc",
+      "w": 15.5,
+      "h": 9
+    },
+    "\n\n\n\n13",
+    {
+      "x": -15.5,
+      "c": "#d1cf79",
+      "t": "#000000",
+      "w": 15.5,
+      "h": 1.25
+    },
+    "",
+    {
+      "x": -10.5,
+      "c": "#cccccc",
+      "p": "DSA SPACE",
+      "fa": [
+        9
+      ],
+      "w": 5.5,
+      "h": 1.25,
+      "d": true
+    },
+    "Excelsior",
+    {
+      "x": 5,
+      "c": "#54422d",
+      "p": "FLAT",
+      "w": 6.5,
+      "h": 9
+    },
+    "",
+    {
+      "x": -6.5,
+      "c": "#d1cf79",
+      "w": 6.5,
+      "h": 1.25
+    },
+    "",
+    {
+      "c": "#cccccc",
+      "p": "DSA SPACE",
+      "a": 6,
+      "fa": [
+        5
+      ],
+      "w": 2,
+      "d": true
+    },
+    "Row 6"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 6.5,
+      "w": 2,
+      "h": 0.5,
+      "d": true
+    },
+    "\n\nPlay Macro",
+    {
+      "c": "#87864c",
+      "p": "FLAT",
+      "a": 7,
+      "h": 0.5
+    },
+    "",
+    {
+      "x": -0.75,
+      "c": "#d1cf79",
+      "p": "CHICKLET",
+      "w": 0.5,
+      "h": 0.5
+    },
+    "",
+    {
+      "x": 0.25,
+      "c": "#cccccc",
+      "p": "DSA SPACE",
+      "a": 6,
+      "f": 3,
+      "w": 2,
+      "h": 0.5,
+      "d": true
+    },
+    "Record Macro",
+    {
+      "x": 5.5,
+      "w": 2,
+      "h": 0.5,
+      "d": true
+    },
+    "\n\nTitle Case",
+    {
+      "c": "#87864c",
+      "p": "FLAT",
+      "a": 7,
+      "h": 0.5
+    },
+    "",
+    {
+      "x": -0.75,
+      "c": "#d1cf79",
+      "p": "CHICKLET",
+      "w": 0.5,
+      "h": 0.5
+    },
+    "",
+    {
+      "x": 0.25,
+      "c": "#cccccc",
+      "p": "DSA SPACE",
+      "a": 6,
+      "f": 3,
+      "w": 2,
+      "h": 0.5,
+      "d": true
+    },
+    "Capitalize Word"
+  ],
+  [
+    {
+      "y": -0.5,
+      "x": 8,
+      "a": 7,
+      "f": 3,
+      "w": 2,
+      "h": 0.5,
+      "d": true
+    },
+    "Function",
+    {
+      "x": 8.5,
+      "f": 3,
+      "w": 2,
+      "h": 0.5,
+      "d": true
+    },
+    "Capital Lock"
+  ],
+  [
+    {
+      "y": -0.5,
+      "c": "#d1cf79",
+      "p": "FLAT",
+      "w": 6.5,
+      "h": 6.5
+    },
+    "",
+    {
+      "t": "#000000\n\n\n\n#cccccc",
+      "w": 15.5,
+      "h": 6.5
+    },
+    "\n\n\n\n13",
+    {
+      "t": "#000000",
+      "w": 6.5,
+      "h": 6.5
+    },
+    ""
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 0.25,
+      "c": "#333333",
+      "t": "6699cc\n\n\n\n#cccccc",
+      "p": "DSA",
+      "fa": [
+        4
+      ]
+    },
+    "A\n\n\n\n14",
+    "Β\n\n\n\n15",
+    "Γ\n\n\n\n16",
+    "Δ\n\n\n\n17",
+    "Ε\n\n\n\n18",
+    "Ϝ\n\n\n\n19",
+    {
+      "x": 0.5
+    },
+    "Ζ\n\n\n\n0",
+    "Η\n\n\n\n1",
+    "Θ\n\n\n\n2",
+    "Ι\n\n\n\n3",
+    "Κ\n\n\n\n4",
+    "Λ\n\n\n\n5",
+    "Μ\n\n\n\n6",
+    "Ν\n\n\n\n7",
+    "Ξ\n\n\n\n8",
+    "Ο\n\n\n\n9",
+    "Π\n\n\n\n10",
+    "Ϙ\n\n\n\n11",
+    "Ρ\n\n\n\n12",
+    "Σ\n\n\n\nR0 C13",
+    "Τ\n\n\n\nR1 C13",
+    {
+      "x": 0.5
+    },
+    "Υ\n\n\n\n20",
+    "Φ\n\n\n\n21",
+    "Χ\n\n\n\n22",
+    "Ψ\n\n\n\n23",
+    "Ω\n\n\n\n24",
+    "ϡ\n\n\n\n25",
+    {
+      "x": 0.25,
+      "c": "#cccccc",
+      "t": "#000000",
+      "p": "DSA SPACE",
+      "a": 6,
+      "fa": [
+        5
+      ],
+      "w": 2,
+      "d": true
+    },
+    "Row 0*"
+  ],
+  [
+    {
+      "x": 0.25,
+      "c": "#333333",
+      "t": "#CCCCCC",
+      "p": "DSA",
+      "a": 7,
+      "fa": [
+        4
+      ]
+    },
+    "Tab-ulate\n\n\n\n14",
+    "Super-script\n\n\n\n15",
+    "Sub-script\n\n\n\n16",
+    "Frac-tion\n\n\n\n17",
+    "Print Screen\n\n\n\n18",
+    {
+      "t": "#CCCCCC\n\n\n\n#cccccc"
+    },
+    "Insert\n\n\n\n19",
+    {
+      "x": 0.5
+    },
+    "Escape\n\n\n\n0",
+    {
+      "t": "#CCCCCC\n\n\n6699cc\n#cccccc",
+      "a": 4,
+      "fa": [
+        5,
+        5,
+        0,
+        5
+      ]
+    },
+    "!\n1\n\n¡\n1",
+    "@\n2\n\n§\n2",
+    "#\n3\n\n£\n3",
+    "$\n4\n\n¢\n4",
+    "%\n5\n\n‱\n5",
+    "^\n6\n\n¥\n6",
+    "&\n7\n\n€\n7",
+    "*\n8\n\n₿\n8",
+    "°\n9\n\n₹\n9",
+    {
+      "fa": [
+        4,
+        5,
+        0,
+        5
+      ]
+    },
+    "000\n0\n\n₪\n10",
+    {
+      "t": "#CCCCCC\n\n\n6699cc",
+      "fa": [
+        5,
+        5,
+        0,
+        5
+      ]
+    },
+    "_\n-\n\n–\n11",
+    "+\n=\n\n—\n12",
+    {
+      "t": "#CCCCCC",
+      "a": 7,
+      "f": 3,
+      "w": 2
+    },
+    "Capital Lock\n\n\n\nR2 C13",
+    {
+      "x": 0.5,
+      "t": "#CCCCCC\n\n\n6699cc",
+      "a": 4,
+      "fa": [
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "~\n`\n\n´\n20",
+    "|\n\\\n\n‽\n21",
+    "÷\n/\n\n\\\n22",
+    "×\n*\n\n•\n23",
+    "_\n-\n\n–\n24",
+    {
+      "t": "#CCCCCC",
+      "a": 7
+    },
+    "Tab-ulate\n\n\n\n25",
+    {
+      "x": 0.25,
+      "c": "#cccccc",
+      "t": "#000000",
+      "p": "DSA SPACE",
+      "a": 6,
+      "fa": [
+        5
+      ],
+      "w": 2,
+      "d": true
+    },
+    "Row 1*"
+  ],
+  [
+    {
+      "x": 0.25,
+      "c": "#333333",
+      "t": "#CCCCCC",
+      "p": "DSA",
+      "a": 7,
+      "f": 3
+    },
+    "Con-trol\n\n\n\n14",
+    {
+      "f": 3
+    },
+    "Top\n\n\n\n15",
+    {
+      "f": 3
+    },
+    "Home\n\n\n\n16",
+    {
+      "f": 3
+    },
+    "Up\n\n\n\n17",
+    {
+      "f": 3
+    },
+    "End\n\n\n\n18",
+    {
+      "t": "#CCCCCC\n\n\n\n#cccccc",
+      "f": 3
+    },
+    "Page Up\n\n\n\n19",
+    {
+      "x": 0.5,
+      "f": 3,
+      "w": 1.5
+    },
+    "Tabulate\n\n\n\n0",
+    {
+      "t": "#CCCCCC\n\n\n6699cc\n#cccccc",
+      "a": 4,
+      "fa": [
+        6,
+        0,
+        0,
+        5
+      ]
+    },
+    "Q\n\n\n;\n1",
+    "W\n\n\nς\n2",
+    "E\n\n\nε\n3",
+    "R\n\n\nρ\n4",
+    "T\n\n\nτ\n5",
+    "Y\n\n\nυ\n6",
+    "U\n\n\nθ\n7",
+    "I\n\n\nι\n8",
+    "O\n\n\nο\n9",
+    "P\n\n\nπ\n10",
+    {
+      "t": "#CCCCCC\n\n\n6699cc",
+      "fa": [
+        5,
+        5,
+        0,
+        5
+      ]
+    },
+    "[\n(\n\n{\n11",
+    "]\n)\n\n}\n12",
+    {
+      "t": "#CCCCCC",
+      "a": 7,
+      "w": 1.5
+    },
+    "Delete\n\n\n\nR3 C13",
+    {
+      "x": 0.5,
+      "t": "#CCCCCC\n\n\n6699cc",
+      "a": 4
+    },
+    "[\n(\n\n{\n20",
+    "&\n7\n\n€\n21",
+    "∞\n8\n\n₿\n22",
+    "°\n9\n\n₹\n23",
+    "≠\n=\n\n—\n24",
+    {
+      "t": "#CCCCCC",
+      "a": 7,
+      "f": 3
+    },
+    "Con-trol\n\n\n\n25",
+    {
+      "x": 0.25,
+      "c": "#cccccc",
+      "t": "#000000",
+      "p": "DSA SPACE",
+      "a": 6,
+      "w": 2,
+      "d": true
+    },
+    "Row 2*"
+  ],
+  [
+    {
+      "x": 0.25,
+      "c": "#333333",
+      "t": "#CCCCCC",
+      "p": "DSA",
+      "a": 7,
+      "f": 3
+    },
+    "Back-space\n\n\n\n14",
+    {
+      "f": 3
+    },
+    "Bottom\n\n\n\n15",
+    {
+      "f": 3
+    },
+    "Left\n\n\n\n16",
+    {
+      "f": 3,
+      "n": true
+    },
+    "Down\n\n\n\n17",
+    {
+      "f": 3,
+      "n": true
+    },
+    "Right\n\n\n\n18",
+    {
+      "t": "#CCCCCC\n\n\n\n#cccccc",
+      "f": 3
+    },
+    "Page Down\n\n\n\n19",
+    {
+      "x": 0.5,
+      "f": 3,
+      "w": 1.75
+    },
+    "Backspace\n\n\n\n0",
+    {
+      "t": "#CCCCCC\n\n\n6699cc\n#cccccc",
+      "a": 4,
+      "fa": [
+        6,
+        5,
+        0,
+        5
+      ]
+    },
+    "A\n\n\nα\n1",
+    "S\n\n\nσ\n2",
+    "D\n\n\nδ\n3",
+    {
+      "n": true
+    },
+    "F\n\n\nφ\n4",
+    "G\n\n\nγ\n5",
+    "H\n\n\nη\n6",
+    {
+      "n": true
+    },
+    "J\n\n\nξ\n7",
+    "K\n\n\nκ\n8",
+    "L\n\n\nλ\n9",
+    {
+      "fa": [
+        5,
+        5,
+        0,
+        5
+      ]
+    },
+    ":\n;\n\n†\n10",
+    {
+      "t": "#CCCCCC\n\n\n6699cc"
+    },
+    "\"\n'\n\n‡\n11",
+    {
+      "t": "#CCCCCC",
+      "a": 7,
+      "f": 3,
+      "w": 2.25
+    },
+    "Enter\n\n\n\nR4 C13",
+    {
+      "x": 0.5,
+      "t": "#CCCCCC\n\n\n6699cc",
+      "a": 4,
+      "fa": [
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "]\n)\n\n}\n20",
+    {
+      "fa": [
+        5,
+        5,
+        0,
+        5
+      ],
+      "n": true
+    },
+    "$\n4\n\n¢\n21",
+    {
+      "n": true
+    },
+    "%\n5\n\n‱\n22",
+    "^\n6\n\n¥\n23",
+    "±\n+\n\n√\n24",
+    {
+      "t": "#CCCCCC",
+      "a": 7,
+      "f": 3
+    },
+    "Delete\n\n\n\n25",
+    {
+      "x": 0.25,
+      "c": "#cccccc",
+      "t": "#000000",
+      "p": "DSA SPACE",
+      "a": 6,
+      "w": 2,
+      "d": true
+    },
+    "Row 3*"
+  ],
+  [
+    {
+      "x": 0.25,
+      "c": "#333333",
+      "t": "#CCCCCC",
+      "p": "DSA",
+      "a": 7,
+      "f": 3
+    },
+    "Shift\n\n\n\n14",
+    {
+      "f": 3
+    },
+    "Redo\n\n\n\n15",
+    {
+      "f": 3
+    },
+    "Word Left\n\n\n\n16",
+    {
+      "f": 3
+    },
+    "Edit\n\n\n\n17",
+    {
+      "f": 3
+    },
+    "Word Right\n\n\n\n18",
+    {
+      "t": "#CCCCCC\n\n\n\n#cccccc",
+      "f": 3
+    },
+    "Re-place\n\n\n\n19",
+    {
+      "x": 0.5,
+      "f": 3,
+      "w": 2.25
+    },
+    "Shift\n\n\n\n0",
+    {
+      "t": "#CCCCCC\n\n\n6699cc\n#cccccc",
+      "a": 4,
+      "fa": [
+        6,
+        5,
+        0,
+        5
+      ]
+    },
+    "Z\n\n\nζ\n2",
+    "X\n\n\nχ\n3",
+    "C\n\n\nψ\n4",
+    "V\n\n\nω\n5",
+    "B\n\n\nβ\n6",
+    "N\n\n\nν\n7",
+    "M\n\n\nμ\n8",
+    {
+      "fa": [
+        5,
+        5,
+        0,
+        5
+      ]
+    },
+    "<\n,\n\n≤\n9",
+    ">\n.\n\n≥\n10",
+    {
+      "t": "#CCCCCC\n\n\n6699cc"
+    },
+    "?\n/\n\n¿\n11",
+    {
+      "t": "#CCCCCC",
+      "a": 7,
+      "f": 3,
+      "w": 2.75
+    },
+    "Shift\n\n\n\n12",
+    {
+      "x": 0.5,
+      "t": "#CCCCCC\n\n\n6699cc",
+      "a": 4,
+      "fa": [
+        0,
+        0,
+        0,
+        5
+      ]
+    },
+    "\"\n'\n\n‡\n20",
+    {
+      "fa": [
+        5,
+        5,
+        0,
+        5
+      ]
+    },
+    "!\n1\n\n¡\n21",
+    "@\n2\n\n§\n22",
+    "#\n3\n\n£\n23",
+    {
+      "t": "#CCCCCC",
+      "a": 7,
+      "f": 3
+    },
+    "Enter\n\n\n\n24",
+    {
+      "f": 3
+    },
+    "Shift\n\n\n\n25",
+    {
+      "x": 0.25,
+      "c": "#cccccc",
+      "t": "#000000",
+      "p": "DSA SPACE",
+      "a": 6,
+      "w": 2,
+      "d": true
+    },
+    "Row 4*"
+  ],
+  [
+    {
+      "x": 0.25,
+      "c": "#333333",
+      "t": "#CCCCCC",
+      "p": "DSA",
+      "a": 7,
+      "f": 3
+    },
+    "Alt-ernate\n\n\n\n14",
+    {
+      "f": 3
+    },
+    "Undo\n\n\n\n15",
+    {
+      "f": 3
+    },
+    "Cut\n\n\n\n16",
+    {
+      "f": 3
+    },
+    "Copy\n\n\n\n17",
+    {
+      "f": 3
+    },
+    "Paste\n\n\n\n18",
+    {
+      "t": "#6699cc\n\n\n\n#cccccc",
+      "p": "DSA SPACE",
+      "f": 3
+    },
+    "Greek\n\n\n\n19",
+    {
+      "x": 0.5,
+      "t": "#CCCCCC\n\n\n\n#cccccc",
+      "p": "DSA",
+      "f": 3,
+      "w": 1.25
+    },
+    "Alternate\n\n\n\n0",
+    {
+      "f": 3
+    },
+    "System\n\n\n\n1",
+    {
+      "f": 3
+    },
+    "Control\n\n\n\n2",
+    {
+      "t": "#cccccc",
+      "p": "DSA SPACE",
+      "f": 3,
+      "w": 7
+    },
+    "|\n\n\n\n6",
+    {
+      "t": "#CCCCCC\n\n\n\n#cccccc",
+      "p": "DSA",
+      "f": 3
+    },
+    "Control\n\n\n\n10",
+    {
+      "t": "#CCCCCC",
+      "f": 3,
+      "w": 1.25
+    },
+    "System\n\n\n\n11",
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "Menu\n\n\n\n12",
+    {
+      "f": 3,
+      "w": 1.25
+    },
+    "Alternate\n\n\n\nR5 C13",
+    {
+      "x": 0.5,
+      "p": "DSA SPACE"
+    },
+    "\n\n\n\n20",
+    {
+      "t": "#CCCCCC\n\n\n6699cc",
+      "p": "DSA",
+      "a": 4,
+      "f": 3
+    },
+    "00\n0\n\n₪\n21",
+    {
+      "f": 3
+    },
+    "000\n\n\n₩\n22",
+    {
+      "f": 3
+    },
+    ">\n.\n\n≥\n23",
+    {
+      "f": 3
+    },
+    "<\n,\n\n≤\n24",
+    {
+      "t": "#CCCCCC",
+      "a": 7,
+      "f": 3
+    },
+    "Alt-ernate\n\n\n\n25",
+    {
+      "x": 0.25,
+      "c": "#cccccc",
+      "t": "#000000",
+      "p": "DSA SPACE",
+      "a": 6,
+      "w": 2,
+      "d": true
+    },
+    "Row 5a"
+  ],
+  [
+    {
+      "x": 9.75,
+      "c": "#d1cf79",
+      "t": "#000000\n\n\n\n#cccccc",
+      "p": "FLAT",
+      "a": 7,
+      "w": 7.5,
+      "h": 1.25
+    },
+    "\n\n\n\n9",
+    {
+      "x": -7.25,
+      "c": "#333333",
+      "t": "#6699cc\n\n\n\n#cccccc",
+      "p": "DSA SPACE",
+      "f": 3
+    },
+    "Greek\n\n\n\n3",
+    {
+      "t": "#CCCCCC\n\n\n\n#cccccc",
+      "f": 3,
+      "w": 2
+    },
+    "Shift\n\n\n\n5",
+    {
+      "f": 3
+    },
+    "Tabulate\n\n\n\n7",
+    {
+      "f": 3,
+      "w": 2
+    },
+    "Enter\n\n\n\n8",
+    {
+      "t": "#6699cc\n\n\n\n#cccccc",
+      "f": 3
+    },
+    "Greek\n\n\n\n9",
+    {
+      "x": 11.5,
+      "c": "#cccccc",
+      "t": "#000000",
+      "a": 6,
+      "w": 2,
+      "d": true
+    },
+    "Row 5b"
+  ],
+  [
+    {
+      "y": 0.5,
+      "x": 28.5,
+      "f": 3,
+      "w": 2,
+      "d": true
+    },
+    "*Unless otherwise noted (Column 13)."
+  ]
+]
