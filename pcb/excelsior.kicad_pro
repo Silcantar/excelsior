@@ -742,7 +742,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -924,6 +924,14 @@
     [
       "68aab48b-d026-4610-86b4-a3277e874325",
       "Root"
+    ],
+    [
+      "652b26cd-b3f5-4845-8329-22e46032dc83",
+      "Excelsior_PGA2350"
+    ],
+    [
+      "597b670c-c21f-44b3-99f6-c2df304022b6",
+      "Excelsior_KB2040"
     ]
   ],
   "text_variables": {}
