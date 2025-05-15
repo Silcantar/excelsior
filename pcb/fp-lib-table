@@ -1,4 +1,4 @@
 (fp_lib_table
   (version 7)
-  (lib (name "pga2350")(type "KiCad")(uri "C:/Users/j.lucas/Repositories/excelsior/pcb/footprints/pga2350.pretty")(options "")(descr ""))
+  (lib (name "excelsior")(type "KiCad")(uri "${KIPRJMOD}/footprints/excelsior.pretty")(options "")(descr ""))
 )
