@@ -450,7 +450,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "mcp23s17_breakout.kicad_pro",
+    "filename": "hdmic_breakout.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -610,7 +610,7 @@
   },
   "sheets": [
     [
-      "59593869-d0e8-4908-97a0-33e730ff156c",
+      "32a94655-cb02-459b-a9ef-eff0998ccaef",
       "Root"
     ]
   ],
