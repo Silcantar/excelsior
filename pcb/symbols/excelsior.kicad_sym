@@ -425,7 +425,7 @@
 						)
 					)
 				)
-				(number "VBB"
+				(number "57"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -461,7 +461,7 @@
 						)
 					)
 				)
-				(number "3EN"
+				(number "56"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -515,7 +515,7 @@
 						)
 					)
 				)
-				(number "3V3"
+				(number "55"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -551,7 +551,7 @@
 						)
 					)
 				)
-				(number "R"
+				(number "54"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -605,7 +605,7 @@
 						)
 					)
 				)
-				(number "AR"
+				(number "53"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -641,7 +641,7 @@
 						)
 					)
 				)
-				(number "U+"
+				(number "52"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -695,7 +695,7 @@
 						)
 					)
 				)
-				(number "SC"
+				(number "51"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -731,7 +731,7 @@
 						)
 					)
 				)
-				(number "U-"
+				(number "50"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -785,7 +785,7 @@
 						)
 					)
 				)
-				(number "SD"
+				(number "49"
 					(effects
 						(font
 							(size 1.27 1.27)
@@ -821,7 +821,7 @@
 						)
 					)
 				)
-				(number "BS"
+				(number "48"
 					(effects
 						(font
 							(size 1.27 1.27)
