@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Adafruit MCP23017 GPIO Expander")(type "KiCad")(uri "$(KIPRJMOD)/Adafruit MCP23017 GPIO Expander.pretty")(options "")(descr ""))
+)
