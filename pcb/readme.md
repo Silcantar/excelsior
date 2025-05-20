@@ -1,0 +1,1 @@
+This is a hand-wired build, so the "PCBs" here are not meant for production. I am using them to select and record the necessary components and to verify that the wiring topology is feasible.
