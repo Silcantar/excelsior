@@ -31,5 +31,7 @@ fp-info-cache
 *.csv
 
 # VSCode Settings
-.vscode/settings.json
-case/case.20250522-215441.FCBak
+.vscode/*
+
+# FreeCAD Backups
+*.FCBak
