@@ -1,0 +1,3053 @@
+{
+  "keycapProfileId": "kam",
+  "keyboard": "679e1359-cd3a-48c5-b03b-e05769ee5c2a",
+  "language": null,
+  "mods": [],
+  "extensions": [],
+  "layers": [],
+  "customizedColor": {
+    "KkOmkz": "GR001",
+    "hQF8gF": "GR001",
+    "8V7YIQ": "GR001",
+    "MInK0z": "GR001",
+    "4F7LqF": "GR001",
+    "MSyWED": "GR001"
+  },
+  "customizedTemplate": {
+    "2e8OVN": "cPpy",
+    "3AfAee": "eGIz",
+    "6i0KKS": "eGIz",
+    "7d7NGp": "cPpy",
+    "AFkpyq": "cPpy",
+    "AO3QQE": "cPpy",
+    "AcYocv": "cPpy",
+    "Az0Coq": "cPpy",
+    "Bpsl17": "cPpy",
+    "DS7JdT": "VLMW",
+    "EO5jLB": "VLMW",
+    "H4Tfqe": "cPpy",
+    "I1PafF": "cPpy",
+    "KL9H6h": "cPpy",
+    "NVtM4d": "cPpy",
+    "NgWgFS": "cPpy",
+    "O1pGfd": "VLMW",
+    "O28myt": "cPpy",
+    "OBldgz": "VLMW",
+    "QCBUpS": "VLMW",
+    "QFcsTE": "cPpy",
+    "REdqsg": "VLMW",
+    "SAufbw": "VLMW",
+    "Tq1EoC": "cPpy",
+    "TyAPWz": "cPpy",
+    "UGWifu": "cPpy",
+    "UkRrRu": "VLMW",
+    "Wcxeeb": "VLMW",
+    "ZShFQB": "VLMW",
+    "ZUYCCK": "cPpy",
+    "aQbGJ1": "VLMW",
+    "dL6SK8": "cPpy",
+    "e5aS9v": "cPpy",
+    "eSZJd6": "VLMW",
+    "fx41gX": "VLMW",
+    "gDkDVr": "eGIz",
+    "hXfije": "eGIz",
+    "ljxNpE": "VLMW",
+    "mAH8co": "VLMW",
+    "oSdFus": "VLMW",
+    "pBP1KL": "cPpy",
+    "qb7GKe": "cPpy",
+    "r7a8j2": "cPpy",
+    "r8BDHk": "VLMW",
+    "rIWPdJ": "cPpy",
+    "tAB2nj": "cPpy",
+    "uaPAzx": "eGIz",
+    "utZInp": "eGIz",
+    "wmDiID": "cPpy",
+    "xKAOmJ": "VLMW",
+    "xSdfjS": "eGIz",
+    "yDGHih": "cPpy",
+    "yPR37S": "eGIz",
+    "yPpTC4": "VLMW",
+    "ywcaoL": "VLMW",
+    "Z3X9F3": "DDWH",
+    "PUCHFB": "DDWH",
+    "DR4Y6Q": "DDWH",
+    "FMNT5N": "DDWH",
+    "JHMGW6": "DDWH",
+    "2Q5UET": "DDWH",
+    "FXXSFT": "DDWH",
+    "4J558P": "DDWH",
+    "75RQVM": "DDWH",
+    "6WHEED": "DDWH",
+    "8NYFET": "DDWH",
+    "XWTJTY": "DDWH",
+    "R9G5NK": "DDWH",
+    "HN8V7A": "DDWH",
+    "7827XG": "DDWH",
+    "R7ED9K": "DDWH",
+    "D5ZYNP": "DDWH",
+    "LLBXSH": "DDWH",
+    "VS2LEZ": "DDWH",
+    "VTTNZE": "DDWH",
+    "AJ8BL6": "DDWH",
+    "85ZYYW": "DDWH",
+    "XCAXE3": "DDWH",
+    "64ZPTV": "DDWH",
+    "2QL48X": "DDWH",
+    "JR2QR6": "DDWH",
+    "X7THXQ": "DDWH",
+    "KkOmkz": "eGIz",
+    "hQF8gF": "eGIz",
+    "8V7YIQ": "eGIz",
+    "MInK0z": "eGIz",
+    "4F7LqF": "eGIz",
+    "MSyWED": "eGIz",
+    "G9VGTP": "eGIz",
+    "JCYH5X": "B5H4",
+    "P3NHX9": "eGIz",
+    "93G68B": "A77X",
+    "AQDP7L": "eGIz",
+    "ZNKA3J": "A77X",
+    "M3X4BH": "eGIz",
+    "S96UY9": "B5H4",
+    "JR4QE2": "B5H4",
+    "FPGVR8": "eGIz",
+    "E5TDDS": "eGIz",
+    "BA7P9T": "B5H4",
+    "TUF7VA": "eGIz",
+    "GK98GT": "eGIz",
+    "6K5KWA": "eGIz",
+    "58KVHA": "eGIz",
+    "Q5H2GS": "eGIz",
+    "NSAFX3": "eGIz",
+    "HSP7XV": "eGIz",
+    "MFKVGK": "eGIz",
+    "T8P88N": "eGIz",
+    "KYHTNH": "eGIz",
+    "QC4QZD": "eGIz",
+    "RE3WY5": "eGIz",
+    "V8AV62": "eGIz",
+    "63EW8S": "eGIz",
+    "78VLF3": "eGIz",
+    "S7THSX": "eGIz",
+    "XUJF8D": "eGIz",
+    "MF8EUL": "eGIz",
+    "MCTQ69": "eGIz",
+    "3JFM74": "eGIz",
+    "X7AAUF": "eGIz",
+    "AFAKG3": "eGIz",
+    "YALULJ": "eGIz",
+    "BK4XBQ": "eGIz",
+    "SYZ3VT": "eGIz",
+    "8542C4": "eGIz",
+    "CYH3QR": "VLMW",
+    "8W6LK4": "VLMW",
+    "3WZU5R": "VLMW",
+    "72UAN5": "VLMW",
+    "NQ6MKD": "VLMW",
+    "BNR5AR": "VLMW",
+    "JW94XT": "VLMW",
+    "9UZQSB": "VLMW",
+    "LMGB2S": "VLMW",
+    "GDT59L": "VLMW",
+    "U5W9TB": "VLMW",
+    "NXKAGY": "VLMW",
+    "SVX25D": "VLMW",
+    "7XZ3VS": "VLMW",
+    "VAPHAX": "VLMW",
+    "X6PHM7": "eGIz",
+    "72UJE6": "VLMW",
+    "K8NSWN": "VLMW",
+    "XQZCTW": "VLMW",
+    "JC65YH": "VLMW",
+    "8XYGWG": "VLMW",
+    "G7TXR2": "cPpy",
+    "UYRVES": "VLMW",
+    "5HPAR3": "VLMW",
+    "AFQH5B": "B5H4",
+    "YRHCM7": "eGIz",
+    "CL2AC6": "eGIz",
+    "H4VFBA": "eGIz",
+    "9QF69Z": "eGIz",
+    "K3EKLT": "ZFUS",
+    "ALVAD6": "ZFUS",
+    "QE8R3L": "ZFUS",
+    "VL4BCG": "ZFUS",
+    "3CWAT8": "eGIz",
+    "6D82WP": "eGIz",
+    "DZAP5K": "eGIz",
+    "R4LLHP": "eGIz",
+    "MVMVRW": "eGIz",
+    "N97FHQ": "eGIz",
+    "LHZJPE": "eGIz",
+    "7KCSFJ": "eGIz",
+    "8J4AMH": "eGIz",
+    "46D9EU": "eGIz",
+    "RQ27X3": "A77X",
+    "TMGSPC": "A77X",
+    "WCP87B": "A77X",
+    "4YGMWA": "eGIz",
+    "GHTNML": "eGIz",
+    "RFDKYB": "eGIz",
+    "4E4J3E": "eGIz",
+    "GW2LCX": "VLMW",
+    "9AGA3X": "VLMW",
+    "HZCWJL": "VLMW",
+    "TZNGER": "VLMW",
+    "X7H9WJ": "eGIz",
+    "4MT5TL": "eGIz",
+    "QJ4GRF": "eGIz",
+    "DB6NTC": "eGIz",
+    "KRKU3F": "eGIz",
+    "22STHT": "eGIz",
+    "FGDEUU": "eGIz"
+  },
+  "customizedContent": {
+    "2e8OVN": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "J"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ξ"
+        }
+      }
+    },
+    "3AfAee": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Alternate"
+        }
+      }
+    },
+    "6i0KKS": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Escape"
+        }
+      }
+    },
+    "7d7NGp": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "D"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "δ"
+        }
+      }
+    },
+    "AFkpyq": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "E"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ε"
+        }
+      }
+    },
+    "AO3QQE": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "C"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ψ"
+        }
+      }
+    },
+    "AcYocv": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "B"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "β"
+        }
+      }
+    },
+    "Az0Coq": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "F"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "φ"
+        }
+      }
+    },
+    "Bpsl17": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "W"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ς"
+        }
+      }
+    },
+    "DS7JdT": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "3"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "#"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "£"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "EO5jLB": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "6"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "^"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "¥"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "H4Tfqe": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Z"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ζ"
+        }
+      }
+    },
+    "I1PafF": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "S"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "σ"
+        }
+      }
+    },
+    "KL9H6h": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "I"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ι"
+        }
+      }
+    },
+    "NVtM4d": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "N"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ν"
+        }
+      }
+    },
+    "NgWgFS": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Y"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "υ"
+        }
+      }
+    },
+    "O1pGfd": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ","
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "<"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "≤"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "O28myt": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "A"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "α"
+        }
+      }
+    },
+    "OBldgz": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "\\"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "|"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "‽"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "QCBUpS": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ";"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ":"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "†"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "QFcsTE": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "K"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "κ"
+        }
+      }
+    },
+    "REdqsg": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "["
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "{"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "✓",
+          "fontId": 8334
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "SAufbw": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "7"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "&"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "€"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "Tq1EoC": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "O"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ο"
+        }
+      }
+    },
+    "TyAPWz": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "G"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "γ"
+        }
+      }
+    },
+    "UGWifu": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "L"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "λ"
+        }
+      }
+    },
+    "UkRrRu": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "="
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "+"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "—"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "Wcxeeb": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "-"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "_"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "–"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "ZShFQB": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "8"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "*"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "×"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "ZUYCCK": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "V"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ω"
+        }
+      }
+    },
+    "aQbGJ1": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "2"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "@"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "§"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "dL6SK8": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "X"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "χ"
+        }
+      }
+    },
+    "e5aS9v": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "H"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "η"
+        }
+      }
+    },
+    "eSZJd6": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "1"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "!"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "¡"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "fx41gX": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "."
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ">"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "≥"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "gDkDVr": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Menu"
+        }
+      }
+    },
+    "hXfije": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Alt"
+        }
+      }
+    },
+    "ljxNpE": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "]"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "}"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "✗",
+          "fontId": 8334
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "mAH8co": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "4"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "$"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "¢"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "oSdFus": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "0"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ")"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "size": 3.5,
+          "label": "000"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "pBP1KL": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Q"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ";"
+        }
+      }
+    },
+    "qb7GKe": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "T"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "τ"
+        }
+      }
+    },
+    "r7a8j2": {},
+    "r8BDHk": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "'"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "\""
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "‡"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "rIWPdJ": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "M"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "μ"
+        }
+      }
+    },
+    "tAB2nj": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "R"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "ρ"
+        }
+      }
+    },
+    "uaPAzx": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Alternate"
+        }
+      }
+    },
+    "utZInp": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Alt"
+        }
+      }
+    },
+    "wmDiID": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "P"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "π"
+        }
+      }
+    },
+    "xKAOmJ": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "/"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "?"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "¿"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "xSdfjS": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "System"
+        }
+      }
+    },
+    "yDGHih": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "U"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "θ"
+        }
+      }
+    },
+    "yPR37S": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Super"
+        }
+      }
+    },
+    "yPpTC4": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "9"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "("
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "°"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "ywcaoL": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "5"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "%"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "‱",
+          "fontId": 4144
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "Z3X9F3": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Α"
+        }
+      }
+    },
+    "PUCHFB": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Β"
+        }
+      }
+    },
+    "DR4Y6Q": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Γ"
+        }
+      }
+    },
+    "FMNT5N": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Δ"
+        }
+      }
+    },
+    "JHMGW6": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ε"
+        }
+      }
+    },
+    "2Q5UET": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ϝ"
+        }
+      }
+    },
+    "FXXSFT": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ζ"
+        }
+      }
+    },
+    "4J558P": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Η"
+        }
+      }
+    },
+    "75RQVM": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Θ"
+        }
+      }
+    },
+    "6WHEED": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ι"
+        }
+      }
+    },
+    "8NYFET": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Κ"
+        }
+      }
+    },
+    "XWTJTY": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Λ"
+        }
+      }
+    },
+    "R9G5NK": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Μ"
+        }
+      }
+    },
+    "HN8V7A": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ν"
+        }
+      }
+    },
+    "7827XG": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ξ"
+        }
+      }
+    },
+    "R7ED9K": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ο"
+        }
+      }
+    },
+    "D5ZYNP": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Π"
+        }
+      }
+    },
+    "LLBXSH": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ϙ",
+          "fontId": 4144
+        }
+      }
+    },
+    "VS2LEZ": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ρ"
+        }
+      }
+    },
+    "VTTNZE": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Σ"
+        }
+      }
+    },
+    "AJ8BL6": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Τ"
+        }
+      }
+    },
+    "85ZYYW": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Υ"
+        }
+      }
+    },
+    "XCAXE3": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Φ"
+        }
+      }
+    },
+    "64ZPTV": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Χ"
+        }
+      }
+    },
+    "2QL48X": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ω"
+        }
+      }
+    },
+    "JR2QR6": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ψ"
+        }
+      }
+    },
+    "X7THXQ": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Ϡ",
+          "fontId": 4144
+        }
+      }
+    },
+    "KkOmkz": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Tabulate"
+        }
+      }
+    },
+    "hQF8gF": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Capital Lock"
+        }
+      }
+    },
+    "8V7YIQ": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Shift"
+        }
+      }
+    },
+    "MInK0z": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Backspace"
+        }
+      }
+    },
+    "4F7LqF": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Return"
+        }
+      }
+    },
+    "MSyWED": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Shift"
+        }
+      }
+    },
+    "G9VGTP": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "System"
+        }
+      }
+    },
+    "JCYH5X": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Control"
+        }
+      }
+    },
+    "P3NHX9": {
+      "yzyM": {
+        "colorId": "BL035",
+        "type": null,
+        "options": {
+          "label": "Greek"
+        }
+      }
+    },
+    "93G68B": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Shift"
+        }
+      }
+    },
+    "AQDP7L": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Return"
+        }
+      }
+    },
+    "ZNKA3J": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Tabulate"
+        }
+      }
+    },
+    "M3X4BH": {
+      "yzyM": {
+        "colorId": "BL035",
+        "type": null,
+        "options": {
+          "label": "Greek"
+        }
+      }
+    },
+    "S96UY9": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Control"
+        }
+      }
+    },
+    "JR4QE2": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Tabulate"
+        }
+      }
+    },
+    "FPGVR8": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Super-\nscript"
+        }
+      }
+    },
+    "E5TDDS": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Sub-\nscript"
+        }
+      }
+    },
+    "BA7P9T": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Fraction"
+        }
+      }
+    },
+    "TUF7VA": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Print\nScreen"
+        }
+      }
+    },
+    "GK98GT": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Insert"
+        }
+      }
+    },
+    "6K5KWA": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Page\nUp"
+        }
+      }
+    },
+    "58KVHA": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "End"
+        }
+      }
+    },
+    "Q5H2GS": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Up"
+        }
+      }
+    },
+    "NSAFX3": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Home"
+        }
+      }
+    },
+    "HSP7XV": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Top"
+        }
+      }
+    },
+    "MFKVGK": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Control"
+        }
+      }
+    },
+    "T8P88N": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Back-\nspace"
+        }
+      }
+    },
+    "KYHTNH": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Word\nLeft"
+        }
+      }
+    },
+    "QC4QZD": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Left"
+        }
+      }
+    },
+    "RE3WY5": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Down"
+        }
+      }
+    },
+    "V8AV62": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Right"
+        }
+      }
+    },
+    "63EW8S": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Word\nRight"
+        }
+      }
+    },
+    "78VLF3": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Page\nDown"
+        }
+      }
+    },
+    "S7THSX": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Redo"
+        }
+      }
+    },
+    "XUJF8D": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Edit"
+        }
+      }
+    },
+    "MF8EUL": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Undo"
+        }
+      }
+    },
+    "MCTQ69": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Bottom"
+        }
+      }
+    },
+    "3JFM74": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Shift"
+        }
+      }
+    },
+    "X7AAUF": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Alter-\nnate"
+        }
+      }
+    },
+    "AFAKG3": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Find"
+        }
+      }
+    },
+    "YALULJ": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Cut"
+        }
+      }
+    },
+    "BK4XBQ": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Copy"
+        }
+      }
+    },
+    "SYZ3VT": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Paste"
+        }
+      }
+    },
+    "8542C4": {
+      "yzyM": {
+        "colorId": "BL035",
+        "type": null,
+        "options": {
+          "label": "Greek"
+        }
+      }
+    },
+    "CYH3QR": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "7"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "&"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "€"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "8W6LK4": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "("
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "["
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "{"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "3WZU5R": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "`"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "~"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "´"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "72UAN5": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "√"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "|"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "‽"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "NQ6MKD": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "/"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "÷"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "\\"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "BNR5AR": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "*"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "×"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "•"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "JW94XT": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "-"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "_"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "–"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "9UZQSB": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "="
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "≠"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "≈"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "LMGB2S": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "9"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "°"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "₹"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "GDT59L": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "8"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "∞"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "size": 3.5,
+          "label": "₿",
+          "fontId": 4144
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "U5W9TB": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ")"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "]"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "}"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "NXKAGY": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "4"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "$"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "¢"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "SVX25D": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "5"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "%"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "‱",
+          "fontId": 4144
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "7XZ3VS": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "6"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "^"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "¥"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "VAPHAX": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "+"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "±"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "—"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "X6PHM7": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Enter"
+        }
+      }
+    },
+    "72UJE6": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "3"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "#"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "£"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "K8NSWN": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "2"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "@"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "§"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "XQZCTW": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "1"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "!"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "¡"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "JC65YH": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "'"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "\""
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "‡"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "8XYGWG": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "0"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "00"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "₪",
+          "fontId": 4144
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "G7TXR2": {
+      "uZbA": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "size": 4,
+          "label": "000"
+        }
+      },
+      "TW2F": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "₩"
+        }
+      }
+    },
+    "UYRVES": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "."
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ">"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "≥"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "5HPAR3": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ","
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "<"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "≤"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "AFQH5B": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Tabulate"
+        }
+      }
+    },
+    "YRHCM7": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Control"
+        }
+      }
+    },
+    "CL2AC6": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Delete"
+        }
+      }
+    },
+    "H4VFBA": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Shift"
+        }
+      }
+    },
+    "9QF69Z": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Alter-\nnate"
+        }
+      }
+    },
+    "K3EKLT": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "↑",
+          "offsetY": -1
+        }
+      }
+    },
+    "ALVAD6": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "←"
+        }
+      }
+    },
+    "QE8R3L": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "↓",
+          "offsetY": -1
+        }
+      }
+    },
+    "VL4BCG": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "→"
+        }
+      }
+    },
+    "3CWAT8": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Capital Lock"
+        }
+      }
+    },
+    "6D82WP": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Delete"
+        }
+      }
+    },
+    "DZAP5K": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Backspace"
+        }
+      }
+    },
+    "R4LLHP": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Escape"
+        }
+      }
+    },
+    "MVMVRW": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Tabulate"
+        }
+      }
+    },
+    "N97FHQ": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Delete"
+        }
+      }
+    },
+    "LHZJPE": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Escape"
+        }
+      }
+    },
+    "7KCSFJ": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Tabulate"
+        }
+      }
+    },
+    "8J4AMH": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Control"
+        }
+      }
+    },
+    "46D9EU": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Control"
+        }
+      }
+    },
+    "RQ27X3": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Backspace"
+        }
+      }
+    },
+    "TMGSPC": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Control"
+        }
+      }
+    },
+    "WCP87B": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Return"
+        }
+      }
+    },
+    "4YGMWA": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Tab-\nulate"
+        }
+      }
+    },
+    "GHTNML": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Tab-\nulate"
+        }
+      }
+    },
+    "RFDKYB": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Back-\nspace"
+        }
+      }
+    },
+    "4E4J3E": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Delete"
+        }
+      }
+    },
+    "GW2LCX": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "9"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "°"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "✓",
+          "fontId": 8334
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "9AGA3X": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "0"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "size": 3.5,
+          "label": "000"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "✗",
+          "fontId": 8334
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "HZCWJL": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "("
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "["
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "{"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "TZNGER": {
+      "lJ31": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ")"
+        }
+      },
+      "UIl3": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "]"
+        }
+      },
+      "XRRT": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "}"
+        }
+      },
+      "Y2V4": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": ""
+        }
+      }
+    },
+    "X7H9WJ": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Delete"
+        }
+      }
+    },
+    "4MT5TL": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Back-\nspace"
+        }
+      }
+    },
+    "QJ4GRF": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Pause"
+        }
+      }
+    },
+    "DB6NTC": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Scroll\nLock"
+        }
+      }
+    },
+    "KRKU3F": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Num.\nLock"
+        }
+      }
+    },
+    "22STHT": {
+      "yzyM": {
+        "colorId": null,
+        "type": null,
+        "options": {
+          "label": "Capital\nLock"
+        }
+      }
+    },
+    "FGDEUU": {
+      "yzyM": {
+        "colorId": "BL035",
+        "type": null,
+        "options": {
+          "label": "Greek"
+        }
+      }
+    }
+  }
+}

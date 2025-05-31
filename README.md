@@ -16,4 +16,6 @@ Because of the massive number of GPIO pins on the PGA2350 and the I/O expanders,
 
 Because QMK does not currently support the RP2350 or displays larger than 128×64, I am planning to use KMK for the firmware.
 
-For those interested, I have designed a [custom set](https://yuzukeycaps.com/c/f0f376b7-9989-43ee-8800-8b28918fe4d5) of KAM keycaps with a white-on-black-with-blue-accents *Wall Street Journal*-inspired aesthetic for *Excelsior* at YUZU Keycaps. They also feature secondary legends for a Greek alphabet/symbol layer and the macro keys are labeled with Greek numerals. There are a number of extra keys for alternative layouts too. Since the keycaps have a uniform profile any key can be placed on any row.
+For those interested, I have designed a [custom set](https://yuzukeycaps.com/c/4633754e-42e4-428c-9306-6221ce11477c)[^1] of KAM keycaps with a white-on-black-with-blue-accents *Wall Street Journal*-inspired aesthetic for *Excelsior* at YUZU Keycaps. They also feature secondary legends for a Greek alphabet/symbol layer and the macro keys are labeled with Greek numerals. There are a number of extra keys for alternative layouts too. Since the keycaps have a uniform profile any key can be placed on any row.
+
+[^1]: If the link does not work, you can import [this JSON file](keycaps/Excelsior.json) to YUZU
