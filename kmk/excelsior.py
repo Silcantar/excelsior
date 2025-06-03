@@ -16,9 +16,32 @@ class Excelsior(KMKKeyboard):
         mcp20 = MCP23017(i2c, address=0x20)
         mcp21 = MCP23017(i2c, address=0x21)
         
-        # create and register the scanner
+        # Create and register the scanner.
+        # Columns and rows are reversed from what they should be to 
         self.matrix = MatrixScanner(
             cols=(
+                board.GP10,
+                board.GP11,
+                board.GP12,
+                board.GP13,
+                board.GP14,
+                board.GP15,
+                board.GP16,
+                mcp20.get_pin(1),
+                mcp20.get_pin(2),
+                mcp20.get_pin(3),
+                mcp20.get_pin(4),
+                mcp20.get_pin(5),
+                mcp20.get_pin(6),
+                mcp21.get_pin(1),
+                mcp21.get_pin(2),
+                mcp21.get_pin(3),
+                mcp21.get_pin(4),
+                mcp21.get_pin(5),
+                mcp21.get_pin(6)
+            ),
+
+            rows=(
                 board.GP17, 
                 board.GP18, 
                 board.GP19, 
@@ -47,28 +70,6 @@ class Excelsior(KMKKeyboard):
                 mcp21.get_pin(14)
             ),
             
-            rows=(
-                board.GP10,
-                board.GP11,
-                board.GP12,
-                board.GP13,
-                board.GP14,
-                board.GP15,
-                board.GP16,
-                mcp20.get_pin(1),
-                mcp20.get_pin(2),
-                mcp20.get_pin(3),
-                mcp20.get_pin(4),
-                mcp20.get_pin(5),
-                mcp20.get_pin(6),
-                mcp21.get_pin(1),
-                mcp21.get_pin(2),
-                mcp21.get_pin(3),
-                mcp21.get_pin(4),
-                mcp21.get_pin(5),
-                mcp21.get_pin(6)
-            ),
-            
-            diode_orientation=DiodeOrientation.COL2ROW,
+            diode_orientation=DiodeOrientation.ROW2COL,
             pull=Pull.UP,
         )

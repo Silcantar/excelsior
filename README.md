@@ -6,7 +6,7 @@
 
 The main section is based on a standard ANSI 60% keyboard, but with a row of 15 function/programmable-macro keys at the top and 5 keys below the 7u spacebar.
 
-The peripheral sections are each 6x6 ortholinear boards and can be placed on either side of the main section, including placing both on the same side of the main. They are connected to the main section by 12-pin pogo pin connectors either directly or via a custom cable. In the default keymap one section is an extended numpad and the other is a large navigation/macro pad. The top row of each peripheral is dedicated to additional function/programmable-macro keys for a total of 27.
+The peripheral sections are each 6x6 ortholinear boards and can be placed on either side of the main section, including placing both on the same side of the main. They are connected to the main section by 20-pin pogo pin connectors either directly or via a custom cable. In the default keymap one section is an extended numpad and the other is a large navigation/macro pad. The top row of each peripheral is dedicated to additional function/programmable-macro keys for a total of 27.
 
 The microcontroller is a Pimoroni PGA2350 board located in the main section. The matrix for the main section is wired directly to the controller board, while the I/O for the peripheral sections is handled by an MCP23017 I/O expander in each section communicating with the controller via I²C. The connections between the sections carry the signals necessary for both I²C and for SPI, plus several spare lines for interrupts, chip selects, or other I/O.
 

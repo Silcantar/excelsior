@@ -5,11 +5,22 @@ import macros as MC
 ________ = KC.TRNS
 XXXXXXXX = KC.NO
 
+# Layers
+BASE    = 0
+SHIFT   = 1
+GREEK   = 2
+SGREEK  = 3
+SUPERS  = 4
+SUBS    = 5
+MC_PLY  = 6
+MC_REC  = 7
+B_BSPC  = 8
+B_BRC   = 9
+
 # Layer Switches
-CLEAR   = KC.TO(0)
-GREEK   = KC.MO(1)
-SUPERS  = KC.MO(2)
-SUBS    = KC.MO(3)
+CLEAR       = KC.TO(0)
+LM_LSFT    = KC.LM(SHIFT, KC.LSFT)
+LM_RSFT    = KC.LM(SHIFT, KC.RSFT)
 
 # Hold-Taps
 KC_FRAC     = KC.HT(UC.FRACTION_SLASH, KC.LEADER)

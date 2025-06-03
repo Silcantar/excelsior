@@ -1,6 +1,7 @@
 print('Starting')
 
 from kmk.keys import KC
+MO = KC.MO
 
 from excelsior import Excelsior
 
@@ -47,35 +48,66 @@ excelsior.modules.append(layers)
 #******************************************************************************#
 
 excelsior.keymap = [
+
     # 0: Default keymap
     [
-        KC.F1       , KC.F2     , KC.F3     , KC.F4     , KC.F5     , KC.F6     , KC.F7     , KC.F8     , KC.F9     , KC.F10    , KC.F11    , KC.F12    , KC.F13    , KC.F14    , KC.F16    , KC.F17    , KC.F18    , KC.F19    , KC.F20    , KC.F21    , KC.F22    , KC.F23    , KC.F24    , KC.PSCR   , KC.SLCK   , KC.PAUS   ,
-        KC.ESC      , KC.N1     , KC.N2     , KC.N3     , KC.N4     , KC.N5     , KC.N6     , KC.N7     , KC.N8     , KC.N9     , KC.N0     , KC.MINS   , KC.EQL    , KC.F15    , KC.INS    , KC.PSCR   , KC.LEADER , AL.SUBS   , AL.SUPERS , KC.TAB    , KC.GRV    , KC.BSLS   , KC.PSLS   , KC.PAST   , KC.PMNS   , KC.TAB    ,
-        KC.TAB      , KC.Q      , KC.W      , KC.E      , KC.R      , KC.T      , KC.Y      , KC.U      , KC.I      , KC.O      , KC.P      , KC.LBRC   , KC.RBRC   , KC.BSPC   , KC.PGUP   , KC.HOME   , KC.UP     , KC.END    , AL.TOP    , KC.LCTL   , AL.LPRN   , KC.N7     , KC.N8     , KC.N9     , KC.PEQL   , KC.RCTL   ,
-        KC.CAPS     , KC.A      , KC.S      , KC.D      , KC.F      , KC.G      , KC.H      , KC.J      , KC.K      , KC.L      , KC.SCLN   , KC.QUOT   , KC.ENT    , KC.BSLS   , KC.PGDN   , KC.LEFT   , KC.DOWN   , KC.RGHT   , AL.BOT    , KC.BSPC   , AL.RPRN   , KC.N4     , KC.N5     , KC.N6     , KC.PPLS   , KC.DEL    ,
-        KC.LSFT     , XXXXXXXX  , KC.Z      , KC.X      , KC.C      , KC.V      , KC.B      , KC.N      , KC.M      , KC.COMM   , KC.DOT    , KC.SLSH   , KC.RSFT   , XXXXXXXX  , AL.REPL   , AL.WRDL   , KC.F2     , AL.WRDR   , AL.REDO   , KC.LSFT   , KC.QUOT   , KC.N1     , KC.N2     , KC.N3     , KC.PENT   , KC.RSFT   ,
-        KC.LALT     , KC.LWIN   , KC.LCTL   , AL.GREEK  , XXXXXXXX  , KC.LSFT   , KC.SPC    , KC.TAB    , KC.ENT    , KC.GRK    , KC.RCTL   , KC.RWIN   , KC.APPS   , KC.RALT   , AL.GREEK  , AL.PASTE  , AL.COPY   , AL.CUT    , AL.UNDO   , KC.LALT   , KC.SPC    , AL.P0     , MC.TRIPLE0, KC.DOT    , KC.COMM   , KC.RALT
+          KC.LALT       , KC.LSFT       , KC.CAPS       , KC.TAB        , KC.ESC        , KC.F1     ,
+          KC.LWIN       , XXXXXXXX      , KC.A          , KC.Q          , KC.N1         , KC.F2     ,
+          KC.LCTL       , KC.Z          , KC.S          , KC.W          , KC.N2         , KC.F3     ,
+          MO(AL.GREEK)  , KC.X          , KC.D          , KC.E          , KC.N3         , KC.F4     ,
+          XXXXXXXX      , KC.C          , KC.F          , KC.R          , KC.N4         , KC.F5     ,
+          AL.LM_LSFT    , KC.V          , KC.G          , KC.T          , KC.N5         , KC.F6     ,
+          KC.SPC        , KC.B          , KC.H          , KC.Y          , KC.N6         , KC.F7     ,
+          KC.TAB        , KC.N          , KC.J          , KC.U          , KC.N7         , KC.F8     ,
+          KC.ENT        , KC.M          , KC.K          , KC.I          , KC.N8         , KC.F9     ,
+          MO(AL.GREEK)  , KC.COMM       , KC.L          , KC.O          , KC.N9         , KC.F10    ,
+          KC.RCTL       , KC.DOT        , KC.SCLN       , KC.P          , KC.N0         , KC.F11    ,
+          KC.RWIN       , KC.SLSH       , KC.QUOT       , KC.LBRC       , KC.MINS       , KC.F12    ,
+          KC.APPS       , AL.LM_RSFT    , KC.ENT        , KC.RBRC       , KC.EQL        , KC.F13    ,
+          KC.RALT       , XXXXXXXX      , KC.BSLS       , KC.BSPC       , KC.F15        , KC.F14    ,
+          MO(AL.GREEK)  , AL.REPL       , KC.PGDN       , KC.PGUP       , KC.INS        , KC.F16    ,
+          AL.PASTE      , AL.WRDL       , KC.LEFT       , KC.HOME       , KC.PSCR       , KC.F17    ,
+          AL.COPY       , KC.F2         , KC.DOWN       , KC.UP         , KC.LEADER     , KC.F18    ,
+          AL.CUT        , AL.WRDR       , KC.RIGHT      , KC.END        , MO(AL.SUBS)   , KC.F19    ,
+          AL.UNDO       , AL.REDO       , AL.BOT        , AL.TOP        , MO(AL.SUPERS) , KC.F20    ,
+          KC.LALT       , AL.LM_LSFT    , KC.BSPC       , KC.LCTL       , KC.TAB        , KC.F21    ,
+          KC.SPC        , KC.QUOT       , AL.LPRN       , AL.RPRN       , KC.GRV        , KC.F22    ,
+          KC.P0         , KC.N1         , KC.N4         , KC.N7         , UC.RADICAL    , KC.F23    ,
+          MC.TRIPLE0    , KC.N2         , KC.N5         , KC.N8         , KC.PSLS       , KC.F24    ,
+          KC.DOT        , KC.N3         , KC.N6         , KC.N9         , KC.PAST       , KC.PSCR   ,
+          KC.COMM       , KC.PENT       , KC.PPLS       , KC.PEQL       , KC.PMNS       , KC.SLCK   ,
+          KC.RALT       , AL.LM_RSFT    , KC.DEL        , KC.RCTL       , KC.TAB        , KC.PAUS
     ],
 
-    # 1: Greek/Symbol
+    # 1: Custom Shift
+        ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,
+        ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,
+        ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,
+        ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,
+        ________    , XXXXXXXX  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , XXXXXXXX  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,
+        ________    , ________  , ________  , AL.SGREEK , XXXXXXXX  , ________  , ________  , ________  , ________  , AL.SGREEK , ________  , ________  , ________  , ________  , AL.SGREEK , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________
+
+    # 2: Greek/Symbol
     [
         ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,
         ________    , UC.IEXCL  , UC.SECTION, UC.GBP    , UC.CENT   , UC.PERMYR , UC.YEN    , UC.EURO   , UC.MULT   , UC.DEG    , MC.TRIPLE0, UC.NDASH  , UC.MDASH  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , UC.ACUTE  , UC.INTBANG, UC.RADICAL, UC.BULLET , UC.NDASH  , ________  ,
-        ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , KC.LCBR   , UC.EURO   , UC.BITCOIN, UC.RUPEE  , UC.APPEQL , ________  ,
-        ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , UC.DAGGER , UC.DDAGGER, ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , KC.RCBR   , UC.CENT   , UC.PERMYR , UC.YEN    , UC.MDASH  , ________  ,
-        ________    , XXXXXXXX  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , UC.LTE    , UC.GTE    , UC.IQUES  , ________  , XXXXXXXX  , ________  , ________  , ________  , ________  , ________  , ________  , UC.DAGGER , UC.IEXCL  , UC.SECTION, UC.GBP    , ________  , ________  ,
+        ________    , UC.GQUES  , UC.fsigma , UC.epsilon, UC.rho    , UC.tau    , UC.upsilon, UC.theta  , UC.iota   , UC.omicron, UC.pi     , UC.CHECK  , UC.BALLOTX, ________  , ________  , ________  , ________  , ________  , ________  , ________  , KC.LCBR   , UC.EURO   , UC.BITCOIN, UC.RUPEE  , UC.APPEQL , ________  ,
+        ________    , UC.alpha  , UC.sigma  , UC.delta  , UC.phi    , UC.gamma  , UC.eta    , UC.xi     , UC.kappa  , UC.lamda  , UC.DAGGER , UC.DDAGGER, ________  , UC.INTBANG, ________  , ________  , ________  , ________  , ________  , ________  , KC.RCBR   , UC.CENT   , UC.PERMYR , UC.YEN    , UC.MDASH  , ________  ,
+        ________    , XXXXXXXX  , UC.zeta   , UC.chi    , UC.psi    , UC.omega  , UC.beta   , UC.nu     , UC.mu     , UC.LTE    , UC.GTE    , UC.IQUES  , ________  , XXXXXXXX  , ________  , ________  , ________  , ________  , ________  , ________  , UC.DAGGER , UC.IEXCL  , UC.SECTION, UC.GBP    , ________  , ________  ,
         ________    , ________  , ________  , ________  , XXXXXXXX  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , UC.SHEKEL , UC.WON    , UC.GTE    , UC.LTE    , ________
     ],
 
-    # 2: Superscript
+    # 3: Greek/Symbol Shifted
 
-    # 3: Subscript
+    # 4: Superscript
 
-    # 4: Macro Play
+    # 5: Subscript
 
-    # 5: Macro Program
+    # 6: Macro Play
 
-    # 6: Better Backspace
+    # 7: Macro Program
+
+    # 8: Better Backspace
     [
         ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,
         ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,
@@ -85,7 +117,7 @@ excelsior.keymap = [
         ________    , ________  , ________  , ________  , XXXXXXXX  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________
     ],
 
-    # 7: Better Brackets
+    # 9: Better Brackets
     [
         ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,
         ________    , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , AL.N9     , AL.N0     , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  , ________  ,

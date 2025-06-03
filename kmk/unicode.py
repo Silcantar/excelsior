@@ -52,6 +52,7 @@ OMEGA       = KC.MACRO("Ω")
 omega       = KC.MACRO("ω")
 TONOS       = KC.MACRO("◌́")
 DTONOS      = KC.MACRO("◌̈́")
+GQUES       = KC.MACRO(";")
 
 # Symbols
 DEG         = KC.MACRO('°')
