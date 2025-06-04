@@ -2,7 +2,7 @@ import board
 import busio
 from digitalio import Pull
 
-from adafruit_mcp230xx.mcp23017 import MCP23017
+from adafruit.mcp23017 import MCP23017
 
 from kmk.kmk_keyboard import KMKKeyboard
 from kmk.scanners.digitalio import MatrixScanner
